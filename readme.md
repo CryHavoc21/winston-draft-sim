@@ -1,17 +1,17 @@
-#winston drafting:
+# winston drafting:
 https://youtu.be/wjE42hv6uiQ
 
-#setup:
+# setup:
 ```bash
 npm install
 ```
 
-#compile:
+# compile:
 ```bash
 npx tsc
 ```
 
-#run:
+# run:
 ```bash
 npm start
 ```
